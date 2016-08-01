@@ -1,0 +1,22 @@
+#battleships {
+	width:600px;
+	margin: 0 auto;
+}
+
+#battleships table, tr, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+
+#battleships .disabled {
+  background-color:#000;
+}
+
+
+#battleships tr {
+  height: 50px;
+}
+
+#battleships td {
+  width: 50px;
+}
